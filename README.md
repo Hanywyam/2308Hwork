@@ -35,9 +35,9 @@ ex)<br>
 * 요소를 다른 요소의 안에 놓을 수 있다. 이를 __요소 중첩__ 이라 부른다.
 * 요소는 겹치지 않게 안쪽이나 바깥쪽으로 열고 닫혀야 한다.
 
-ex)
-`<p>My cat is <strong>very</strong> cute.</p>` (O)
-`<p>My cat is <strong>very cute.</p></strong>` (X)
+ex)<br>
+`<p>My cat is <strong>very</strong> cute.</p>` (O)<br>
+`<p>My cat is <strong>very cute.</p></strong>` (X)<br>
 
 
 #### 4. 빈 요소 ####
